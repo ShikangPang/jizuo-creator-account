@@ -1,0 +1,8 @@
+- insert:
+    - id: jizuo-account-core
+      name: "@jizuo/plugin"
+      config:
+        hostUi: native
+        chapterWorkflowEnabled: false
+    - id: jizuo-account
+      name: "@jizuo/account-plugin"
